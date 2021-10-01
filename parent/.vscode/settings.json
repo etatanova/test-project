@@ -1,4 +1,4 @@
 {
     "react-native-tools.logLevel": "Trace",
-    "react-native-tools.projectRoot": "rntest"
+    "react-native-tools.projectRoot": "./rntest"
 }
